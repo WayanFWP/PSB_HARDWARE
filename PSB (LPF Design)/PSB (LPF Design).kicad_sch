@@ -2072,7 +2072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3"
 			(at 168.6052 74.93 0)
 			(effects
 				(font
@@ -2190,7 +2190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fff0fa8-972c-4434-871c-80ab7dd724fa")
-		(property "Reference" "J1"
+		(property "Reference" "ScrewTerminal1"
 			(at 104.14 118.1099 0)
 			(effects
 				(font
@@ -2244,7 +2244,7 @@
 		(instances
 			(project ""
 				(path "/084b7188-85fa-49c4-936c-1f04d12cf3f4"
-					(reference "J1")
+					(reference "ScrewTerminal1")
 					(unit 1)
 				)
 			)
@@ -2551,7 +2551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3"
 			(at 94.9452 68.58 0)
 			(effects
 				(font
@@ -2688,7 +2688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3"
 			(at 121.6152 68.58 0)
 			(effects
 				(font
@@ -3028,7 +3028,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3"
 			(at 188.9252 74.93 0)
 			(effects
 				(font
